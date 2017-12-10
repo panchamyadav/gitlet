@@ -1,0 +1,9 @@
+# Set up a simple chain of commits and check their log.
+> init
+<<<
++ wug.txt wug.txt
+> add wug.txt
+<<<
+> commit
+Please enter a commit message.
+<<<*

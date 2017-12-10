@@ -1,0 +1,6 @@
+# Test adding wug to the stage.
+> init
+<<<
++ wug.txt wug.txt
+> add wug.txt
+<<<
